@@ -1,4 +1,4 @@
-This is a simple "Hello Word" program that I created with the MIT Scratch system for teaching little kids to program.
+This is a simple "Hello World" program that I created with the MIT Scratch system for teaching little kids to program.
 
 I was tired of my kids wasting their minds with playing games on smart phone.
 I bought the book entitled [Help Your Kids with Computer Coding](https://books.google.com/books?id=iorEAwAAQBAJ) at
