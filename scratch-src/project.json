@@ -2,7 +2,7 @@
 	"objName": "Stage",
 	"sounds": [{
 			"soundName": "pop",
-			"soundID": 1,
+			"soundID": 0,
 			"md5": "83a9787d4cb6f3b7632b4ddfebf74367.wav",
 			"sampleCount": 258,
 			"rate": 11025,
@@ -10,7 +10,7 @@
 		}],
 	"costumes": [{
 			"costumeName": "backdrop1",
-			"baseLayerID": 4,
+			"baseLayerID": 2,
 			"baseLayerMD5": "739b5e2a2435f6e1ec2993791b423146.png",
 			"bitmapResolution": 1,
 			"rotationCenterX": 240,
@@ -22,44 +22,6 @@
 	"tempoBPM": 60,
 	"videoAlpha": 0.5,
 	"children": [{
-			"objName": "Sprite1",
-			"sounds": [{
-					"soundName": "meow",
-					"soundID": 0,
-					"md5": "83c36d806dc92327b9e7049a565c6bff.wav",
-					"sampleCount": 18688,
-					"rate": 22050,
-					"format": ""
-				}],
-			"costumes": [{
-					"costumeName": "costume1",
-					"baseLayerID": 1,
-					"baseLayerMD5": "09dc888b0b7df19f70d81588ae73420e.svg",
-					"bitmapResolution": 1,
-					"rotationCenterX": 47,
-					"rotationCenterY": 55
-				},
-				{
-					"costumeName": "costume2",
-					"baseLayerID": 2,
-					"baseLayerMD5": "3696356a03a8d938318876a593572843.svg",
-					"bitmapResolution": 1,
-					"rotationCenterX": 47,
-					"rotationCenterY": 55
-				}],
-			"currentCostumeIndex": 1,
-			"scratchX": 0,
-			"scratchY": 0,
-			"scale": 1,
-			"direction": 90,
-			"rotationStyle": "normal",
-			"isDraggable": false,
-			"indexInLibrary": 1,
-			"visible": true,
-			"spriteInfo": {
-			}
-		},
-		{
 			"objName": "Professor Anti-Z",
 			"scripts": [[109,
 					53,
@@ -74,7 +36,7 @@
 						["stopScripts", "this script"]]]],
 			"sounds": [{
 					"soundName": "pop",
-					"soundID": 1,
+					"soundID": 0,
 					"md5": "83a9787d4cb6f3b7632b4ddfebf74367.wav",
 					"sampleCount": 258,
 					"rate": 11025,
@@ -82,7 +44,7 @@
 				},
 				{
 					"soundName": "Hello World!",
-					"soundID": 2,
+					"soundID": 1,
 					"md5": "98cf13bbc6ffa3118648bfe63c8e62a0.wav",
 					"sampleCount": 102401,
 					"rate": 22050,
@@ -90,7 +52,7 @@
 				}],
 			"costumes": [{
 					"costumeName": "ProfessorX",
-					"baseLayerID": 3,
+					"baseLayerID": 1,
 					"baseLayerMD5": "ad0e346027a1727cb9dda3b9ecf6c7a7.png",
 					"bitmapResolution": 2,
 					"rotationCenterX": 218,
@@ -103,19 +65,19 @@
 			"direction": 90,
 			"rotationStyle": "normal",
 			"isDraggable": false,
-			"indexInLibrary": 2,
+			"indexInLibrary": 1,
 			"visible": true,
 			"spriteInfo": {
 			}
 		}],
 	"info": {
 		"swfVersion": "v459.1",
-		"hasCloudData": false,
-		"spriteCount": 2,
-		"videoOn": false,
 		"flashVersion": "LNX 28,0,0,161",
 		"projectID": "207721860",
+		"scriptCount": 1,
+		"videoOn": false,
 		"userAgent": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/65.0.3325.124 Safari\/537.36",
-		"scriptCount": 1
+		"hasCloudData": false,
+		"spriteCount": 1
 	}
 }
