@@ -29,4 +29,4 @@ simple programs that I wrote when I was in lower school back in the 60s.
 I am not sure my programs will interest my kids. They seem to consider the
 ways in which I learn to be incredibly boring.
 
-I am open to suggestions. 
+I am open to suggestions.
